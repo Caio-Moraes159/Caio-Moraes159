@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente não estou trabalhando na área, porém ja estou a procura de estagios
 - 📖 Cursando Ciências da Computação - 3ºsemestre - Barão de Mauá/Ribeirão Preto - SP
-- 🌱 Estuando C++
+- 🌱 Estudando C++
 
 
 
