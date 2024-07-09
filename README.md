@@ -3,8 +3,8 @@
 ##
 
 - 🔭 Atualmente não estou trabalhando na área, porém ja estou a procura de estagios
-- 📖 Cursando Ciências da Computação - 3ºsemestre - Barão de Mauá/Ribeirão Preto - SP
-- 🌱 Estudando C++
+- 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
+- 🌱 Estudando C++, Java, HMTL, CSS e Excel
 
 
 
