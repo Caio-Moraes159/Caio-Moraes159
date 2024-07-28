@@ -7,10 +7,10 @@
 - 🌱 Estudando C++, Java, HMTL, CSS e Excel
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Moraes159&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Moraes159&show_icons=true&theme=tokyonight&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Moraes159&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Moraes159&layout=compact&langs_count=8&card_width=300&theme=tokyonight" />
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caio-Moraes159&repo=to-do-list-JavaScript)](https://github.com/anuraghazra/github-readme-stats) -->
