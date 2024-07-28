@@ -6,7 +6,16 @@
 - 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
 - 🌱 Estudando C++, Java, HMTL, CSS e Excel
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Moraes159&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Moraes159&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Caio-Moraes159&repo=to-do-list-JavaScript)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p></p>
 
 <div>
   <img align="center" alt="Caio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
