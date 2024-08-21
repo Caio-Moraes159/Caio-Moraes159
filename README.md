@@ -2,9 +2,9 @@
 
 ##
 
-- 🔭 Atualmente não estou trabalhando na área, porém ja estou a procura de estagios
+- 🔭 Atualmente trabalho com analista de sistema senior
 - 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
-- 🌱 Estudando C++, Java, HMTL, CSS e Excel
+- 🌱 Estudando C++, Java, HMTL, CSS e React
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Caio-Moraes159&show_icons=true&theme=tokyonight&card_width=400" />
