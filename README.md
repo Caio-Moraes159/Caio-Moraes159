@@ -1,5 +1,3 @@
-### Olá! Me chamo Caio Moraes, e esse aqui é meu readme!👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Caio+Caminitti!)](https://git.io/typing-svg)
 
 ##
