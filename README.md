@@ -4,6 +4,8 @@
 - 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
 - 🌱 Estudando C++, Java, HMTL, CSS e React
 
+- testeeeeeeeeeeeeeeee
+
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
