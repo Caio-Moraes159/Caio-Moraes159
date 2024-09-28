@@ -4,7 +4,7 @@
 - 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
 - 🌱 Estudando C++, Java, HMTL, CSS e React
 
-- testeeeeeeeeeeeeeeee
+- testeeeeeeeeeeeeeeee 2
 
 ##
 
