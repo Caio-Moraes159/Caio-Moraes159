@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Hi%2C+my+name+is+Caio+Moraes!)](https://git.io/typing-svg)
 
-- 🔭 Atualmente trabalho com analista de sistema
-- 📖 Cursando Ciências da Computação - 6ºsemestre - Barão de Mauá/Ribeirão Preto - SP
-- 🌱 Estudando C++, Java, HMTL, CSS e React
+- 🔭 Trabalhando como Desenvolver
+- 📖 Cursando Ciências da Computação - 7ºsemestre - Barão de Mauá/Ribeirão Preto - SP
+- 🌱 Estudando C++, Java, HMTL, CSS, React, Ruby e Rails
 
 ##
 
